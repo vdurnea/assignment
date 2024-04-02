@@ -6,5 +6,6 @@ componenti
 - schede_madri.md
 
 periferiche
+- tastiere
 
 Elettronica Padovana
